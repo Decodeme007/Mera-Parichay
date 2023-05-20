@@ -43,8 +43,8 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Vishesh Jha";
-    $("#favicon").attr("href", "assests/images/favicon.png");
+    document.title = "Portfolio | Manish Kumar";
+    $("#favicon").attr("href", "assests/images/manish2.png");
   } else {
     document.title = "Come Back To Portfolio";
   }
